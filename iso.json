@@ -9097,6 +9097,14 @@
     },
     {
         "keys": [
+            "DE/FRA"
+        ],
+        "latitude": 50.1211828,
+        "longitude": 8.5541646,
+        "name": "Frankfurt"
+    },
+    {
+        "keys": [
             "DE-BW"
         ],
         "latitude": 48.537777777778,
